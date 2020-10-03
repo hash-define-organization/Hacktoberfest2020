@@ -12,3 +12,8 @@
 - Place: South West Delhi, India
 - Bio: Student (Yeah, Just a Student)
 - Github: [Utkarsh Sharma](https://github.com/utkzas)
+
+#### Name: [Jai Gaur](https://github.com/Jai-Gaur-26)
+- Place: Ghaziabad, Uttar Pradesh
+- Bio: Java Programmer
+- Github: [Jai Gaur](https://github.com/Jai-Gaur-26)
