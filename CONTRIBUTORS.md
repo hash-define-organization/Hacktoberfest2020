@@ -22,3 +22,8 @@
 - Tempat: PATI, Indonedia
 - Bio: Pengembang web FrontEnd
 - Github: [ Arif Cahya Prananda ] (https://github.com/ramayananbudaya)
+
+#### Name: [Luciano Roberto Tapia](https://github.com/lucianotapia)
+- Place: Piracicaba, Brazil
+- Bio: PHP Developer
+- Github: [Luciano Roberto Tapia](https://github.com/lucianotapia)
