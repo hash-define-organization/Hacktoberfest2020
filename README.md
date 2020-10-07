@@ -1,7 +1,8 @@
 # Hacktoberfest2020
 
-![Logo](/logo.png)
-[#Define-Organization](https://github.com/hash-define-organization)
+<img src="https://user-images.githubusercontent.com/48639196/95290756-a6fce500-088b-11eb-91cf-dc972cbc0964.jpg" width="100%">
+
+<span align="center">[#Define-Organization](https://github.com/hash-define-organization)</span>
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
@@ -120,10 +121,14 @@ Here is my `hello_world` example: [hello_world_loracsilva.js]
 
 
 ## Reference links
-Here is a great tutorial for creating your first pull request by [Roshan Jossey](https://github.com/Roshanjossey): 
-[https://github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
+Here is a great tutorial for creating your first pull request by [Roshan Jossey](https://github.com/Roshanjossey):[https://github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
+
 Managing your Forked Repo: [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
+
 Syncing a Fork: [https://help.github.com/articles/syncing-a-fork/](https://help.github.com/articles/syncing-a-fork/)
+
 Keep Your Fork Synced: [https://gist.github.com/CristinaSolana/1885435](https://gist.github.com/CristinaSolana/1885435)
+
 Checkout this list for README examples - Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
