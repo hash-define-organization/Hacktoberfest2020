@@ -2,6 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/48639196/95290756-a6fce500-088b-11eb-91cf-dc972cbc0964.jpg" width="100%">
 
+<span align="center">[#Define-Organization](https://github.com/hash-define-organization)</span>
+
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
 Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open source community by completing some simple tasks in this project.
