@@ -18,6 +18,16 @@
 - Bio: Java Programmer
 - Github: [Jai Gaur](https://github.com/Jai-Gaur-26)
 
+####  Nama: [ Arif Cahya Prananda ](https://github.com/ramayanabudaya)
+- Tempat: PATI, Indonedia
+- Bio: Pengembang web FrontEnd
+- Github: [ Arif Cahya Prananda ] (https://github.com/ramayananbudaya)
+
+#### Name: [Luciano Roberto Tapia](https://github.com/lucianotapia)
+- Place: Piracicaba, Brazil
+- Bio: PHP Developer
+- Github: [Luciano Roberto Tapia](https://github.com/lucianotapia)
+
 #### Name: [Hritwika Sarkar](https://github.com/Hrit20)
 - Place: Burdhaman, West Bengal
 - Bio: Java Programmer
