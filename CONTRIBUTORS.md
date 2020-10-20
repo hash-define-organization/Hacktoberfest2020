@@ -38,3 +38,7 @@
 - Bio: Java Programmer
 - Github: [Hritwika Sarkar](https://github.com/Hrit20)
 
+#### Name: [Ashank Juyal](https://github.com/Ashank16)
+- Place: New Delhi, India
+- Bio: Web Developer
+- Github: [Ashank16](https://github.com/Ashank16)
