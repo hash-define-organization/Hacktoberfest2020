@@ -42,3 +42,8 @@
 - Place: New Delhi, India
 - Bio: Web Developer
 - Github: [Ashank16](https://github.com/Ashank16)
+
+#### Name: [Ritika Chauhan](https://github.com/ChauhanRitika)
+- Place: New Delhi, India
+- Bio: Full Stack Developer
+- GitHub: [Ritika Chauhan](https://github.com/ChauhanRitika)
