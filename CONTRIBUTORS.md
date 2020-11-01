@@ -38,3 +38,7 @@
 - Bio: Java Programmer
 - Github: [Hritwika Sarkar](https://github.com/Hrit20)
 
+#### Name: [Ritika Chauhan](https://github.com/ChauhanRitika)
+- Place: New Delhi, India
+- Bio: Full Stack Developer
+- GitHub: [Ritika Chauhan](https://github.com/ChauhanRitika)
